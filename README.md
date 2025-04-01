@@ -8,8 +8,8 @@
 </p>
 
 <p align='center'>
-  <a> <img align='left' src="https://github-readme-stats.vercel.app/api?username=DanielaGarridoG&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&title_color=ffa500&icon_color=ffff00&text_color=ffffff"/> <a>
-  <a> <img src="https://media.tenor.com/0Zg4zqZsQ5kAAAAC/mob-mob-psycho.gif" width="180"/> <a>
+  <a> <img align='down' src="https://github-readme-stats.vercel.app/api?username=DanielaGarridoG&count_private=true&show_icons=true&theme=transparent&hide_border=true&hide_rank=true&title_color=ffa500&icon_color=ffff00&text_color=ffffff"/> <a>
+  <a> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHI3MjRnanRmdGE4NGhrcWw2YmJ4emV4cm56dzRrdW82azF3OHhrMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BSsSBKN1eKGUU/giphy.gif" width="100"/> <a>
   <a> &nbsp&nbsp&nbsp <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaGarridoG&layout=compact&theme=transparent&hide_border=true&title_color=ffa500&icon_color=ffff00&text_color=ffffff"/> <a>
 </p>
 <br><br>
